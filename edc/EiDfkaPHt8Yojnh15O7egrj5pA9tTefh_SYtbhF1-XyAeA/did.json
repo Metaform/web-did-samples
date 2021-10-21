@@ -1,7 +1,7 @@
 {
   "@context": "https://w3id.org/did-resolution/v1",
   "didDocument": {
-    "id": "did:web:github.com:Metaform:web-did-samples:EiDfkaPHt8Yojnh15O7egrj5pA9tTefh_SYtbhF1-XyAeA",
+    "id": "did:web:github.com:Metaform:web-did-samples:edc:EiDfkaPHt8Yojnh15O7egrj5pA9tTefh_SYtbhF1-XyAeA",
     "@context": [
       "https://www.w3.org/ns/did/v1",
       {
@@ -36,6 +36,6 @@
     "method": {
       "published": true
     },
-    "canonicalId": "did:web:github.com:Metaform:web-did-samples:EiDfkaPHt8Yojnh15O7egrj5pA9tTefh_SYtbhF1-XyAeA"
+    "canonicalId": "did:web:github.com:Metaform:web-did-samples:edc:EiDfkaPHt8Yojnh15O7egrj5pA9tTefh_SYtbhF1-XyAeA"
   }
 }
